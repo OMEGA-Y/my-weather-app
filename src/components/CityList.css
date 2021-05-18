@@ -1,0 +1,8 @@
+.citylist {
+  width: 250px;
+  text-align: left;
+  display: inline-block;
+  background: beige;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
